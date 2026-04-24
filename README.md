@@ -1,10 +1,10 @@
 Next Leap | Power BI Data Analyst Project
-🚀 Recruiter Snapshot
+
 
 Data Analyst skilled in Power BI, DAX, data modeling, and business intelligence reporting.
 This project demonstrates end-to-end analytical workflow: data cleaning, transformation (ETL), KPI development, trend analysis, and executive dashboard design to support data-driven decision-making.
 
-📌 Project Overview
+ Project Overview
 
 Next Leap is a business intelligence dashboard built using Microsoft Power BI to transform raw data into actionable insights.
 
@@ -18,7 +18,7 @@ Create KPIs aligned with business objectives
 
 Deliver clear, stakeholder-ready visual reports
 
-🎯 Business Objective
+ Business Objective
 
 The goal of this project was to:
 
@@ -30,8 +30,8 @@ Detect underperforming segments
 
 Support strategic decision-making through data
 
-🧠 Analytical Workflow
-1️⃣ Data Cleaning & Transformation (ETL)
+ Analytical Workflow
+1️ Data Cleaning & Transformation (ETL)
 
 Handled missing and inconsistent data
 
@@ -41,7 +41,7 @@ Created calculated columns
 
 Transformed raw datasets using Power Query
 
-2️⃣ Data Modeling
+2️ Data Modeling
 
 Built relationships between multiple tables
 
@@ -49,7 +49,7 @@ Applied structured data modeling techniques
 
 Optimized performance using proper schema design
 
-3️⃣ KPI & Metric Development (DAX)
+3️ KPI & Metric Development (DAX)
 
 Created calculated measures
 
@@ -59,7 +59,7 @@ Implemented time intelligence calculations
 
 Built dynamic metrics responding to slicers
 
-4️⃣ Data Visualization & Reporting
+4️ Data Visualization & Reporting
 
 Designed interactive dashboards
 
@@ -69,7 +69,7 @@ Created drill-down and filter capabilities
 
 Focused on clarity, usability, and storytelling
 
-🛠 Technical Skills & Tools (ATS Optimized)
+ Technical Skills & Tools (ATS Optimized)
 
 Microsoft Power BI
 
@@ -90,22 +90,21 @@ Data Visualization
 Performance Analysis
 
 Dashboard Design
+ Dashboard Features
 
-📊 Dashboard Features
+ Dynamic KPI Cards
 
-📌 Dynamic KPI Cards
+ Trend & Time-Series Analysis
 
-📈 Trend & Time-Series Analysis
+ Period-over-Period Comparisons
 
-📅 Period-over-Period Comparisons
+ Interactive Filters & Slicers
 
-🎛 Interactive Filters & Slicers
+ Category & Segment Breakdown
 
-📊 Category & Segment Breakdown
+ Performance Monitoring Metrics
 
-📉 Performance Monitoring Metrics
-
-📈 Business Insights Generated
+ Business Insights Generated
 
 This dashboard enables stakeholders to:
 
@@ -121,7 +120,7 @@ Make informed, data-driven decisions
 
 ![Dashboard Overview](images/image.png)
 
-📂 Project File
+ Project File
 
 next leap power BI.pbix – Power BI Report File
 
@@ -133,17 +132,17 @@ Open using Microsoft Power BI Desktop
 
 Interact with filters and report pages
 
-💼 Why This Project Adds Value
+Why This Project Adds Value
 
 This project demonstrates my ability to:
 
-✔ Translate business questions into analytical solutions
-✔ Apply structured problem-solving methods
-✔ Develop measurable KPIs
-✔ Communicate insights to non-technical stakeholders
-✔ Deliver professional, decision-ready dashboards
+Translate business questions into analytical solutions
+ Apply structured problem-solving methods
+ Develop measurable KPIs
+ Communicate insights to non-technical stakeholders
+ Deliver professional, decision-ready dashboards
 
-🔮 Future Enhancements
+ Future Enhancements
 
 SQL database integration
 
@@ -155,7 +154,7 @@ Deployment to Power BI Service
 
 Performance optimization for large datasets
 
-👤 About Me
+ About Me
 
 I am a Junior Data Analyst focused on leveraging data to drive business insights. I am actively seeking opportunities where I can apply analytical thinking, business intelligence tools, and data storytelling to solve real-world problems.
 
