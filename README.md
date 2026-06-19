@@ -1,4 +1,4 @@
-Next Leap | Power BI Data Analyst Project
+Next Leap | Power BI Data Analyst Project/business intelligence dashboard built using Microsoft Power BI to transform raw data into actionable insights.
 
 
 Data Analyst skilled in Power BI, DAX, data modeling, and business intelligence reporting.
@@ -6,7 +6,7 @@ This project demonstrates end-to-end analytical workflow: data cleaning, transfo
 
  Project Overview
 
-Next Leap is a business intelligence dashboard built using Microsoft Power BI to transform raw data into actionable insights.
+This is  business intelligence dashboard built using Microsoft Power BI to transform raw data into actionable insights.
 
 The project highlights my ability to:
 
