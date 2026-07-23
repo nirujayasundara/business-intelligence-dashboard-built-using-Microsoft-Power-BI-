@@ -2,7 +2,7 @@ Next Leap | Power BI Data Analyst Project/business intelligence dashboard built 
 
 
 Data Analyst skilled in Power BI, DAX, data modeling, and business intelligence reporting.
-This project demonstrates end-to-end analytical workflow: data cleaning, transformation (ETL), KPI development, trend analysis, and executive dashboard design to support data-driven decision-making.
+This project demonstrates end to end analytical workflow: data cleaning, transformation (ETL), KPI development, trend analysis, and executive dashboard design to support data-driven decision-making.
 
  Project Overview
 
